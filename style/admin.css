@@ -1,0 +1,41 @@
+.preview {
+    width: 600px;
+    height: auto;
+    border: 1px solid #aaa;
+}
+
+.thumbs {
+    width: 100%;
+}
+
+.thumbs img {
+    width: 100px;
+    margin: 5px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+}
+
+th,
+td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: left;
+}
+
+form {
+    margin-top: 20px;
+}
+
+input[type="text"],
+input[type="number"] {
+    padding: 8px;
+    margin-right: 10px;
+    width: 200px;
+}
